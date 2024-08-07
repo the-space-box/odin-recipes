@@ -1,2 +1,2 @@
-### Short description
-text text text text
+### A small recipes webpage 
+has 3 distinct recipes like curry lasagna and sushi.
